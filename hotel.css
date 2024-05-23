@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.IST{
+    background-color: darkslateblue;
+    height: 50PX;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bolder;
+}
+.sec{
+    background-color: rgb(3, 2, 51);;
+
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    
+    text-align: center;
+   
+   
+}
+.R{
+    color: rgb(111, 0, 255);
+    font-size: x-large;
+}
+.M{
+    font-size: x-large;
+    color: rgb(0, 252, 13);
+}
+    
+    .k{
+        color: rgb(0, 255, 170);
+        font-size: x-large;
+    }
+   
+.last{
+    height: 250px;
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+
+
+}
+.T{
+    font-size: 30PX;
+   
+}
